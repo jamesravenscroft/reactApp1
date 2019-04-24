@@ -1,0 +1,24 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "reactClickApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesravenscroft/reactApp1.git"
+  },
+  "keywords": [
+    "react",
+    "clicky",
+    "game"
+  ],
+  "author": "james ravenscroft 3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesravenscroft/reactApp1/issues"
+  },
+  "homepage": "https://github.com/jamesravenscroft/reactApp1#readme"
+}
